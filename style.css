@@ -14,16 +14,16 @@ body {
 }
 
 header {
-  width: 375px;
   height: 90px;
+  width: 375px;
   background: #3c3a39;
   background-image: url("Assets/Dark.svg");
   background-repeat: no-repeat;
 }
 
 .logo {
-  height: 24px;
   width: 100 px;
+  height: 24px;
   padding-left: 24px;
   padding-bottom: 08px;
   font-family: 'Roboto', sans-serif;
@@ -254,7 +254,22 @@ main {
 
 .see-project:hover {
   transform: scale(1.02);
+  background-color: #fddec5;;
+  border: 1px solid;
+  border-color: #ff6b00;
+  color: #ff6b00;
+}
+
+.see-project:active {
+  transform: scale(1.1);
+  background-color: #f06400;
+  color: #d1d1d1;
+}
+
+.see-project:disabled {
+  transform: scale(1.1);
   background-color: #172b4d;
+  color: #979493;
 }
 
 .grid-container {
@@ -366,8 +381,23 @@ main {
 }
 
 .see-project1:hover {
-  transform: scale(1.02);
+  transform: scale(1.1);
+  background-color: #fddec5;;
+  border: 1px solid;
+  border-color: #ff6b00;
+  color: #ff6b00;
+}
+
+.see-project1:active {
+  transform: scale(1.1);
+  background-color: #f06400;
+  color: #d1d1d1;
+}
+
+.see-project1:disabled {
+  transform: scale(1.1);
   background-color: #172b4d;
+  color: #979493;
 }
 
 #skillset {
@@ -440,6 +470,22 @@ main {
 
 .see-project2:hover {
   transform: scale(1.1);
+  background-color: #fddec5;;
+  border: 1px solid;
+  border-color: #ff6b00;
+  color: #ff6b00;
+}
+
+.see-project2:active {
+  transform: scale(1.1);
+  background-color: #f06400;
+  color: #d1d1d1;
+}
+
+.see-project2:disabled {
+  transform: scale(1.1);
+  background-color: #172b4d;
+  color: #979493;
 }
 
 .languajes {
@@ -621,8 +667,23 @@ hr {
 
 .send:hover {
   transform: scale(1.2);
+  background-color: #fddec5;;
+  border: 1px solid;
+  border-color: #ff6b00;
+  color: #ff6b00;
 }
 
+.send:active {
+  transform: scale(1.1);
+  background-color: #f06400;
+  color: #d1d1d1;
+}
+
+.send:disabled {
+  transform: scale(1.1);
+  background-color: #172b4d;
+  color: #979493;
+}
 /* @media only screen and (min-width: 375px) {
 
 }
