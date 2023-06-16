@@ -254,16 +254,16 @@ main {
 
 .see-project:hover {
   transform: scale(1.02);
-  background-color: #fddec5;
+  background-color: #fff5e1;
   border: 1px solid;
-  border-color: #ff6b00;
-  color: #ff6b00;
+  border-color: #f55800;
+  color: #f55800;
 }
 
 .see-project:active {
   transform: scale(1.1);
-  background-color: #f06400;
-  color: #d1d1d1;
+  background-color: #e05304;
+  color: #f4f1f0;
 }
 
 .see-project:disabled {
@@ -382,16 +382,16 @@ main {
 
 .see-project1:hover {
   transform: scale(1.1);
-  background-color: #fddec5;
+  background-color: #fff5e1;
   border: 1px solid;
-  border-color: #ff6b00;
-  color: #ff6b00;
+  border-color: #f55800;
+  color: #f55800;
 }
 
 .see-project1:active {
   transform: scale(1.1);
-  background-color: #f06400;
-  color: #d1d1d1;
+  background-color: #e05304;
+  color: #f4f1f0;
 }
 
 .see-project1:disabled {
@@ -470,16 +470,16 @@ main {
 
 .see-project2:hover {
   transform: scale(1.1);
-  background-color: #fddec5;
+  background-color: #fff5e1;
   border: 1px solid;
-  border-color: #ff6b00;
-  color: #ff6b00;
+  border-color: #f55800;
+  color: #f55800;
 }
 
 .see-project2:active {
   transform: scale(1.1);
-  background-color: #f06400;
-  color: #d1d1d1;
+  background-color: #e05304;
+  color: #f4f1f0;
 }
 
 .see-project2:disabled {
@@ -669,14 +669,14 @@ hr {
   transform: scale(1.2);
   background-color: #fddec5;
   border: 1px solid;
-  border-color: #ff6b00;
-  color: #ff6b00;
+  border-color: #f55800;
+  color: #f55800;
 }
 
 .send:active {
   transform: scale(1.1);
-  background-color: #f06400;
-  color: #d1d1d1;
+  background-color: #e05304;
+  color: #f4f1f0;
 }
 
 .send:disabled {
